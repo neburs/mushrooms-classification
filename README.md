@@ -254,3 +254,5 @@ legend("topright", legend = paste("Effectivity Prediction =", average, "%"),
 ![GitHub Logo](/images/cross_validation.png)
 
 As you can see, the **mean of hit** to this 10 iterations is **near to be to 100%** and, I can sospite that, or this dataset has been modeled to be a perfect classification, or the observations of **this dataset is not representative of the reality**. Probably the second option is the most reasonable because **some of the attributes in this datset not have observations with all possible values** (as is the case of the attribute veil.type).
+
+*NOTE*: Dataset extracted from https://www.kaggle.com/uciml/mushroom-classification/
